@@ -4,7 +4,13 @@
 
 I am a passionate software engineer with a love for learning and coding. Currently, I work as a backend developer at ETOLV, where I specialize in PHP/Laravel and Neo4j Database. 
 
-Skills: HTML / Css / PHP / Laravel / Mysql / Neo4j
+Skills: 
+* HTML 
+* Css 
+* PHP 
+* Laravel 
+* Mysql 
+* Neo4j
 
 - 🔭 My Repositories  
 
