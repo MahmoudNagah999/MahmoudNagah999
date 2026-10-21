@@ -1,20 +1,35 @@
-### Hi there 👋, my name is Mahmoud
-#### I am Software engineer
-![I am Software engineer](https://camo.githubusercontent.com/710ed7e382bf0822948af4660bab594c24723b1d10c0b49bd47daf33b2a65f54/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f67697068792e676966)
+# Mahmoud Nagah Mousa
 
-I am a passionate software engineer with a love for learning and coding. Currently, I work as a backend developer at ETOLV, where I specialize in PHP/Laravel and Neo4j Database. 
+### Senior Backend Engineer | PHP & Laravel
 
-### Skills
-*  HTML 
-*  CSS 
-*  PHP 
-*  Laravel 
-*  MySQL 
-*  Neo4j
+Senior Backend Engineer with **4+ years of professional experience** building and maintaining backend systems, REST APIs, and business applications using PHP and Laravel.
 
-- 🔭 My Repositories  
+My focus is on building reliable, maintainable, and secure backend systems through clean architecture, thoughtful database design, performance optimization, and practical engineering best practices.
 
+### Core Skills
 
+- **Backend:** PHP, Laravel, RESTful APIs, Service Layer, Modular Architecture
+- **Databases:** MySQL, Query Optimization, Database Design
+- **Security:** Authentication, Authorization, JWT, Input Validation
+- **Engineering Practices:** OOP, SOLID, Clean Code, Legacy Refactoring
+- **Testing & Tools:** PHPUnit, Pest, Git, GitHub
 
+### What I Work On
 
+- Designing and developing REST APIs for web and mobile applications.
+- Implementing complex business workflows and backend services.
+- Improving application performance and database query efficiency.
+- Strengthening API security and access control.
+- Refactoring legacy code to improve maintainability and reliability.
 
+### Projects & Portfolio
+
+Explore my portfolio to learn more about my professional experience and selected work.
+
+- **Portfolio:** [mahmoudnagah999.github.io/myPortofolio](https://mahmoudnagah999.github.io/myPortofolio/)
+- **LinkedIn:** [linkedin.com/in/mahmoud-nagah-mn999](https://linkedin.com/in/mahmoud-nagah-mn999/)
+- **GitHub:** [github.com/MahmoudNagah999](https://github.com/MahmoudNagah999)
+
+---
+
+*Focused on building scalable backend systems with PHP and Laravel.*
