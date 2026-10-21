@@ -28,7 +28,6 @@ Explore my portfolio to learn more about my professional experience and selected
 
 - **Portfolio:** [mahmoudnagah999.github.io/myPortofolio](https://mahmoudnagah999.github.io/myPortofolio/)
 - **LinkedIn:** [linkedin.com/in/mahmoud-nagah-mn999](https://linkedin.com/in/mahmoud-nagah-mn999/)
-- **GitHub:** [github.com/MahmoudNagah999](https://github.com/MahmoudNagah999)
 
 ---
 
