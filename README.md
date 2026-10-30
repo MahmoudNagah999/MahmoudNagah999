@@ -1,34 +1,25 @@
 # Mahmoud Nagah Mousa
 
-### Senior Backend Engineer | PHP & Laravel
+### Backend Engineer | PHP & Laravel
 
-Senior Backend Engineer with **4+ years of professional experience** building and maintaining backend systems, REST APIs, and business applications using PHP and Laravel.
+Backend Engineer with nearly 4 years of experience building production SaaS and enterprise systems with PHP and Laravel: REST APIs, multi-tenant architecture, security, and performance optimization.
 
-My focus is on building reliable, maintainable, and secure backend systems through clean architecture, thoughtful database design, performance optimization, and practical engineering best practices.
+📍 Cairo, Egypt · 🟢 Open to Backend Engineer roles (Cairo / Remote) · ✉️ Mahmoudnagah999@gmail.com
+
+### Selected Impact
+- Cut a school-onboarding step from ~55s to 7s (~87%) by eliminating N+1 queries in a multi-tenant school management SaaS.
+- Closed a cross-tenant data-access risk by binding the school ID to JWT claims.
+- Built a Hajj allocations and bookings module from scratch inside a tourism ERP used by 5,000+ users across 100+ departments.
 
 ### Core Skills
+- **Backend:** PHP, Laravel, Lumen, Filament, Python/Flask, REST APIs, Service Layer
+- **Architecture:** Multi-tenancy, SOLID, Legacy Refactoring, Queues
+- **Databases:** MySQL, PostgreSQL, Neo4j (Cypher), Query Optimization
+- **Security:** JWT, RBAC, Spatie Permission, Tenant Isolation
+- **Testing & Tools:** Pest, PHPUnit, Git, Docker, Jenkins
 
-- **Backend:** PHP, Laravel, RESTful APIs, Service Layer, Modular Architecture
-- **Databases:** MySQL, Query Optimization, Database Design
-- **Security:** Authentication, Authorization, JWT, Input Validation
-- **Engineering Practices:** OOP, SOLID, Clean Code, Legacy Refactoring
-- **Testing & Tools:** PHPUnit, Pest, Git, GitHub
+### Featured Project
+- **[RYADA](https://github.com/MahmoudNagah999/RYADA)**: multi-tenant Laravel SaaS for karate clubs and tournaments.
 
-### What I Work On
-
-- Designing and developing REST APIs for web and mobile applications.
-- Implementing complex business workflows and backend services.
-- Improving application performance and database query efficiency.
-- Strengthening API security and access control.
-- Refactoring legacy code to improve maintainability and reliability.
-
-### Projects & Portfolio
-
-Explore my portfolio to learn more about my professional experience and selected work.
-
-- **Portfolio:** [mahmoudnagah999.github.io/myPortofolio](https://mahmoudnagah999.github.io/myPortofolio/)
-- **LinkedIn:** [linkedin.com/in/mahmoud-nagah-mn999](https://linkedin.com/in/mahmoud-nagah-mn999/)
-
----
-
-*Focused on building scalable backend systems with PHP and Laravel.*
+### Links
+- [Portfolio](https://mahmoudnagah999.github.io/myPortofolio/) · [LinkedIn](https://linkedin.com/in/mahmoud-nagah-mn999/)
